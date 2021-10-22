@@ -1,0 +1,12 @@
+.serviceDetails{
+    margin-top: 10px;
+    background-color:rgb(230, 221, 221);
+    
+}
+
+.serviceDetails-Img img{
+    
+    width:80%;
+    border:1px solid red;
+    border-radius:20px;
+}

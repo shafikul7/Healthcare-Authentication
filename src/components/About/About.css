@@ -1,0 +1,25 @@
+.about-part{
+    margin-top:80px;
+    margin-bottom:20px;
+}
+
+.head-color{
+    text-align:center;
+    font-weight:bold;
+    color:#204066;
+    padding:20px;
+    margin-top: 80px;
+}
+.head-color:hover{
+    color:#0373fc;
+}
+.about-p{
+    color: #00AC7A;
+    font-size: 20px;
+    font-weight:bold;
+}
+.about-d{
+    color: #343837;
+    font-size: 16px;
+    font-weight:normal;
+}

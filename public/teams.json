@@ -1,0 +1,41 @@
+
+
+
+[
+    {
+        "_id": "60791a7350b72a58dcd71a1f1",
+        "name": "Dr. Shakib BK",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "img": "https://i.postimg.cc/bv2PN1M9/team-member10.png"
+    },
+    {
+        "_id": "607c3e0412b2953a045d93032",
+        "name": "Dr. Abdul Rahim",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "img": "https://i.postimg.cc/pXqR0Wzz/team-member4.png"
+    },
+    {
+        "_id": "607c3e4d12b2953a045d93043",
+        "name": "Dr. Farjana Akter",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "img": "https://i.postimg.cc/vZKMs0Pm/team-member5.png"
+    },
+    {
+        "_id": "607ff663c236bd00154d82274",
+        "name": "Dr. Rubel Hk",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "img": "https://i.postimg.cc/XYq3mRkh/team-member6.png"
+    },
+    {
+        "_id": "607ff663c236bd00154d82275",
+        "name": "Dr. Shafikul islam",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "img": "https://i.postimg.cc/ZRtS9Czt/team-member8.png"
+    },
+    {
+        "_id": "607ff663c236bd00154d82276",
+        "name": "Dr. Neupane Commodo",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "img": "https://i.postimg.cc/rm1L5Mqd/team-member9.png"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "_id": "60791",
+        "name": "Pediatric Clinic",
+        "description": "Both long- and short-term exposure to UV radiation can harm the eyes, affect vision to compromise overall eye health.",
+        "img": "https://i.postimg.cc/hjQy5cws/portfolio1.jpg"
+    },
+    {
+        "_id": "6072",
+        "name": "Dental Clinic",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "img": "https://i.postimg.cc/Xqw2nxny/portfolio2.jpg"
+    },
+    {
+        "_id": "6073",
+        "name": "General Surgery",
+        "description": "labore areas disease eyecare dolore aliqua.Ut enim ad et minim veniam, and quis nostrud exercitation produr enim",
+        "img": "https://i.postimg.cc/QCL4LvZ3/portfolio3.jpg"
+    },
+    {
+        "_id": "6074",
+        "name": "Physiotherapy",
+        "description": "Haematology –sysmex XN2000 :(Full Automated Reticulocyte Counter & 5 parts Differential Analyzer)",
+        "img": "https://i.postimg.cc/WprYmp0b/portfolio4.jpg"
+    },
+    {
+        "_id": "6075",
+        "name": "Emergency Services",
+        "description": "Cobas 6000 (Full Automated Multibatch Biochemistry & Immunology AnalyzerClinical Pathology, Histopathology)",
+        "img": "https://i.postimg.cc/bwY6jQWs/portfolio5.jpg"
+    },
+    {
+        "_id": "6076",
+        "name": "Pregnancy Care",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "img": "https://i.postimg.cc/qMTb1fGc/portfolio6.jpg"
+    },
+    {
+        "_id": "6077",
+        "name": "Cancer Care",
+        "description": "BECKMAN Coulter Au 680 (Random Access Multibatch Chemistry Analyzer)",
+        "img": "https://i.postimg.cc/t4rBRsGD/portfolio7.jpg"
+    },
+    {
+        "_id": "6078",
+        "name": "Occupational Therapy",
+        "description": "Abbott-Architect i2000SR (Full Automated Random Access Immunology Analyzer)",
+        "img": "https://i.postimg.cc/m2ydqddv/portfolio8.jpg"
+    },
+    {
+        "_id": "6079",
+        "name": "Ward",
+        "description": "( Biochemistry, Immunology, Serology, Microbiology, Molecular Laboratory )",
+        "img": "https://i.postimg.cc/W4hXds2V/portfolio9.jpg"
+    }
+]
